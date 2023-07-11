@@ -1,5 +1,5 @@
 # Codeclause 
-# project 1 (predict customer churn in the telecom industry using logistic regression):-
+# project 1 (Churn Prediction in Telecom Industry using Logistic Regression):-
 The goal of this project is to predict customer churn in the telecom industry using logistic regression. Churn refers to the phenomenon where customers discontinue their subscription or service with a particular company. Identifying and predicting customer churn is crucial for telecom companies as it helps them retain customers and develop strategies to reduce churn rate.
 
 In this project, we will utilize a dataset that contains historical customer information, including demographics, usage patterns, and churn status. By applying logistic regression, a widely used classification algorithm, we aim to build a predictive model that can effectively identify customers who are likely to churn.
